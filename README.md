@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felipe Ferraz Lima</h1>
+<h1 align="center">Hi 👋 I'm Felipe Ferraz Lima</h1>
 <h3 align="center">A passionate Electrical Engineer/Data Scientist from Campinas, Brasil</h3>
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
