@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋 I'm Felipe Ferraz Lima</h1>
-<h3 align="center">A passionate Electrical Engineer/Data Scientist from Campinas, Brazil</h3>
-<h3 align="center">Pronouns: He/Him</h3>
+<h1 align="center">Hi 👋 I'm Felipe Ferraz Lima (He/Him)</h1>
+<h3 align="center">A passionate Data Scientist/Electrical Engineer from Brazil</h3>
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
@@ -13,10 +12,6 @@
 - 📄 LinkedIn: [https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/](https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/)
 
 - ⚡ Fun fact **I'm a musician, and I have a cat**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
   <h3 align="left">Languages and Tools:</h3>
   <table><tr>                                                                                                                              
