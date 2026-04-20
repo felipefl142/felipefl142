@@ -8,9 +8,9 @@
 
 - 📫 How to reach me: **felipefrl@proton.me**
 
-- 📄 LinkedIn: [https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/](https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/)
+- Or Discord user: funkymunky7683
 
-- Discord: funkymunky7683
+- 📄 LinkedIn: [https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/](https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/)
 
 - ⚡ Fun fact **I'm a musician, and I have a cat**
 
