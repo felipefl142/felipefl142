@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **felipefrl@proton.me**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/](https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/)
+- 📄 Know about my experiences on LinkedIn: [https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/](https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/)
 
 - ⚡ Fun fact **I'm a musician, and I have a cat**
 
