@@ -4,11 +4,13 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 💬 Ask me about **EE & Data Science mostly**
+- 💬 Ask me about **Data Science, AI & Electrical/Electronics**
 
-- 📫 How to reach me **felipefrl@proton.me**
+- 📫 How to reach me: **felipefrl@proton.me**
 
-- 📄 Know about my experiences on LinkedIn: [https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/](https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/)
+- 📄 LinkedIn: [https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/](https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/)
+
+- Discord: funkymunky7683
 
 - ⚡ Fun fact **I'm a musician, and I have a cat**
 
