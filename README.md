@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **EE & Data Science mostly**
 
-- 📫 How to reach me **felipefrl1@hotmail.com**
+- 📫 How to reach me **felipefrl@proton.me**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/](https://www.linkedin.com/in/felipe-ferraz-lima-7469b51b9/)
 
