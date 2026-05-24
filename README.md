@@ -14,12 +14,9 @@
                                                                                                                                            
   ##### ML Platforms & Analytics
                                                                                                                                            
-  - 💳 [`credit-risk-prediction-mlplatform`](https://github.com/felipefl142/credit-risk-prediction-mlplatform): end-to-end credit risk ML  
-  platform
-  - 🏎️  [`f1-predict-analysis-platform`](https://github.com/felipefl142/f1-predict-analysis-platform): Formula 1 prediction & analysis      
-  platform                                                                                                                                 
-  - 🚕 [`nyc-taxi-analysis`](https://github.com/felipefl142/nyc-taxi-analysis): NYC Yellow Taxi fare prediction with PySpark, XGBoost &
-  Streamlit                                                                                                                                
+  - 💳 [`credit-risk-prediction-mlplatform`](https://github.com/felipefl142/credit-risk-prediction-mlplatform): end-to-end credit risk ML platform
+  - 🏎️  [`f1-predict-analysis-platform`](https://github.com/felipefl142/f1-predict-analysis-platform): Formula 1 prediction & analysis platform                                                                                                                                 
+  - 🚕 [`nyc-taxi-analysis`](https://github.com/felipefl142/nyc-taxi-analysis): NYC Yellow Taxi fare prediction with PySpark, XGBoost & Streamlit                                                                                                                                
   - 🕵️  [`TG2-Fraud-Detection-Techniques-Study`](https://github.com/felipefl142/TG2-Fraud-Detection-Techniques-Study): Bachelor Thesis of fraud ensemble detection techniques                                                                                                                     
                                                                                                                                            
   ##### Learning  
