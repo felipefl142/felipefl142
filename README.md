@@ -6,10 +6,8 @@
                                                                                                                                            
   ##### Forecasting & Time Series                                                                                                          
                                                                                                                                            
-  - ⚡ [`brazilian-energy-price-forecasting`](https://github.com/felipefl142/brazilian-energy-price-forecasting): Brazilian electricity    
-  price forecasting
-  - 🔌 [`ENTSOE-energy-price-forecast`](https://github.com/felipefl142/ENTSOE-energy-price-forecast): European energy price forecasting    
-  with ENTSO-E data                                                                                                                        
+  - ⚡ [`brazilian-energy-price-forecasting`](https://github.com/felipefl142/brazilian-energy-price-forecasting): Brazilian electricity price forecasting
+  - 🔌 [`ENTSOE-energy-price-forecast`](https://github.com/felipefl142/ENTSOE-energy-price-forecast): European energy price forecasting with ENTSO-E data                                                                                                                        
   - 🛒 [`Store-Sales-Forecasting`](https://github.com/felipefl142/Store-Sales-Forecasting): retail sales forecasting
                                                                                                                                            
   ##### ML Platforms & Analytics
