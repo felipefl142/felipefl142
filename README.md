@@ -25,7 +25,7 @@
                   
   ##### Reach me
 
-  - 📫 **felipefrl@proton.me**                                                                                                             
+  - 📫 **felipefrl1@hotmail.com**                                                                                                             
   - 💼 [LinkedIn](https://www.linkedin.com/in/felipe-ferraz-lima/)
   - 💬 Discord: `funkymunky7683`                                                                                                           
   - ⚡ Fun fact: musician, cat owner
