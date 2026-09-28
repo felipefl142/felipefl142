@@ -9,6 +9,7 @@
   - ⚡ [`brazilian-energy-price-forecasting`](https://github.com/felipefl142/brazilian-energy-price-forecasting): Brazilian electricity price forecasting
   - 🔌 [`ENTSOE-energy-price-forecast`](https://github.com/felipefl142/ENTSOE-energy-price-forecast): European energy price forecasting with ENTSO-E data                                                                                                                        
   - 🛒 [`Store-Sales-Forecasting`](https://github.com/felipefl142/Store-Sales-Forecasting): retail sales forecasting
+  - 🔋 [`carga-forecast`](https://github.com/felipefl142/carga-forecast): daily electricity load forecasting for Brazil's 4 power subsystems from live ONS + Open-Meteo data (incremental ingestion with vintages, weather forecasts as features, DuckDB, XGBoost + scikit-learn, MLflow registry, Streamlit)
                                                                                                                                            
   ##### ML Platforms & Analytics
                                                                                                                                            
