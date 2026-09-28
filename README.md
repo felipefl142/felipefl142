@@ -16,6 +16,7 @@
   - 🏎️  [`f1-predict-analysis-platform`](https://github.com/felipefl142/f1-predict-analysis-platform): Formula 1 prediction & analysis platform                                                                                                                                 
   - 🚕 [`nyc-taxi-analysis`](https://github.com/felipefl142/nyc-taxi-analysis): NYC Yellow Taxi fare prediction with PySpark, XGBoost & Streamlit                                                                                                                                
   - 🌍 [`global-health-analytics`](https://github.com/felipefl142/global-health-analytics): global health analytics & causal inference on World Bank + WHO data (medallion pipeline, XGBoost, DiD, Feast + FastAPI + Streamlit)
+  - 🦟 [`dengue-forecast`](https://github.com/felipefl142/dengue-forecast): weekly dengue forecasting for Brazil's 27 state capitals from live InfoDengue data (incremental ingestion with vintages, DuckDB, XGBoost + scikit-learn, MLflow registry, Streamlit)
   - 🕵️  [`TG2-Fraud-Detection-Techniques-Study`](https://github.com/felipefl142/TG2-Fraud-Detection-Techniques-Study): Bachelor Thesis of fraud ensemble detection techniques                                                                                                                     
                                                                                                                                            
   ##### Learning  
